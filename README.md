@@ -1,8 +1,7 @@
 This repository contains Matlab and C code generated for the lab rotation "Impact of dendritic nonlinearities on dynamics of spatial networks"
 
 This project integrates nonlinear dendritic computation into a recurrent spiking network with spatially dependent connectivity and investigates
-its effects on the spatio-temporal dynamics. We show that sublinear and supralinear dendritic computation affect the network dynamics, 
-
+its effects on the spatio-temporal dynamics.
 The implementation of the network is based on:
 Rosenbaum, R., Smith, M. A., Kohn, A., Rubin, J. E., & Doiron, B. (2017). The spatial structure of correlated neuronal variability. Nature neuroscience, 20(1), 107.
 
